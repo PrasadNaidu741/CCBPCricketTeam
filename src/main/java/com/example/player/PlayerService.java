@@ -1,12 +1,3 @@
-/*
- 
-* You can use the following import statements
- 
- * import org.springframework.web.server.ResponseStatusException;
- * import org.springframework.http.HttpStatus;
- 
- */
-
 package com.example.player;
 
 import org.springframework.http.HttpStatus;
